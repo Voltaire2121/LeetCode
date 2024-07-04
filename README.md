@@ -20,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Voltaire2121/LeetCode/tree/master/0041-first-missing-positive) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Voltaire2121/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Voltaire2121/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
