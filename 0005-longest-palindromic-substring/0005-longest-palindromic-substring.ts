@@ -3,6 +3,7 @@ function longestPalindrome(s: string) {
   for (let i = 0; i < maxLength; i++) {
     const gap = maxLength - i
     for (let j = maxLength; j > maxLength - i - 1; j--) {
+      if (s.charAt(j - gap) !== s.charAt(j - 1)) continue
       const tempString = s.substring(j - gap, j)
       if (isPalindrome(tempString)) return tempString
     }
