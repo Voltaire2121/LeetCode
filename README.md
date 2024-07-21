@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Voltaire2121/LeetCode/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/Voltaire2121/LeetCode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Voltaire2121/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1293-three-consecutive-odds](https://github.com/Voltaire2121/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## Two Pointers
 |  |
 | ------- |
