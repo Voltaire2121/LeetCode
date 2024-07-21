@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Voltaire2121/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Voltaire2121/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Voltaire2121/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0068-text-justification](https://github.com/Voltaire2121/LeetCode/tree/master/0068-text-justification) |
 | [0224-basic-calculator](https://github.com/Voltaire2121/LeetCode/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Voltaire2121/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Voltaire2121/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Voltaire2121/LeetCode/tree/master/0053-maximum-subarray) |
+| [0068-text-justification](https://github.com/Voltaire2121/LeetCode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Voltaire2121/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Two Pointers
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Voltaire2121/LeetCode/tree/master/0224-basic-calculator) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Voltaire2121/LeetCode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
