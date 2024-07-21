@@ -67,14 +67,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Voltaire2121/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Voltaire2121/LeetCode/tree/master/0007-reverse-integer) |
 | [0224-basic-calculator](https://github.com/Voltaire2121/LeetCode/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Voltaire2121/LeetCode/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/Voltaire2121/LeetCode/tree/master/0224-basic-calculator) |
 ## Simulation
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Voltaire2121/LeetCode/tree/master/0068-text-justification) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Voltaire2121/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
